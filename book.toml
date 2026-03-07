@@ -7,3 +7,12 @@ language = "en"
 site-url = "/wonk_oracle/"
 git-repository-url = "https://github.com/quipu-o/wonk_oracle/tree/main"
 edit-url-template = "https://github.com/quipu-o/wonk_oracle/edit/main/{path}"
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
