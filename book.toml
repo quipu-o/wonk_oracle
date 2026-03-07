@@ -5,4 +5,5 @@ language = "en"
 
 [output.html]
 site-url = "/wonk_oracle/"
-
+git-repository-url = "https://github.com/quipu-o/wonk_oracle/tree/main"
+edit-url-template = "https://github.com/quipu-o/wonk_oracle/edit/main/{path}"
