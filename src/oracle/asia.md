@@ -4,18 +4,18 @@
 
 ------
 
-# Predictions
+## Predictions
 
-## China
+### China
 
-### China attempts invading Taiwan in 2027
+#### China attempts invading Taiwan in 2027
 
-#### Pro
+**Pro**
 
 - It's a symbolic year. `(link to article missing)`
 - The US is busy shooting up ammunition in Iran and doesn't have enough to fight two or more wars.
 
-#### Con
+**Con**
 
 - Hardest invasion in the history of mankind.
   - Taiwan's resilience is exceptionally high. Taiwan's defeat is the destruction of their identity.
