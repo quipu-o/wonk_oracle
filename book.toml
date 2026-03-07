@@ -1,0 +1,8 @@
+[book]
+title = "Wonk Oracle"
+authors = ["quipu"]
+language = "en"
+
+[output.html]
+site-url = "/wonk_oracle/"
+
