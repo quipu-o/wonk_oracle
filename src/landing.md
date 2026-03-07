@@ -25,9 +25,9 @@ and historians can chuckle in the future.
 
 Want to join?
 
-<www.armscontrolwonk.com> for the podcast.
+[www.armscontrolwonk.com](<https://www.armscontrolwonk.com>) for the podcast.
 
-<www.patreon.com/acwpodcast> to support the show.
+[patreon.com/acwpodcast](<https://patreon.com/acwpodcast>) to support the show.
 
 $3 if you are a student.
 
