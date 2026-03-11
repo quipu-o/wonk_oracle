@@ -31,6 +31,10 @@ _Other opinions_
 - `Honestly... Fuck if I know...`: at least one, realistically everyone.
 - `Israel would like to have Iran to be a parking lot`: ~9
 
+_Indicators_
+
+- Scenario 5 (maybe 1) for the US is reported to be the case: https://web.archive.org/web/20260311012656/https://bsky.app/profile/chrismurphyct.bsky.social/post/3mgqotmihcs2w
+
 -----
 
 ### What is the map of possible US/Israel vs. Iran 2026-war outcomes?
