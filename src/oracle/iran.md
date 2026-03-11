@@ -4,7 +4,7 @@
 
 ## But why, why???
 
-### Why did US & Israel attack Iran on Februrary 28, 2026?
+### Why did US & Israel attack Iran on February 28, 2026?
 
 1. Simply stupidity, believing  "that is the greatest special operation of them all." In, out, quick 20 minutes adventure.
    The plan was "they just surrender when they see what the great white man can do. Look I solved another war."
@@ -12,7 +12,7 @@
 3. The Iranian regime is at its weakest point in decades; fear that if they don't hit now they never get a chance again to "solve" it militarily.
 4. The whole plan was long-term instability in Iran, then try to contain the chaos.
 5. There is no plan, also no concept of a plan.
-6. Israel doesn't want an Iranian regime negotiatiing with Trump under any circumstances.
+6. Israel doesn't want an Iranian regime negotiating with Trump under any circumstances.
 
 #### Votes
 
@@ -41,6 +41,7 @@ _Indicators_
 
 1. Bombing for X days. Kill a few more higher ups. Figure the needle isn't moving.
    Go back to "negotiations" with terms you can't accept. Same effect as in June. Repeat in a few months.
+   Maw the lawn scenario.
 2. Bombing for X days. Find some subgroup of, or within, the IRGC who says they are totally cool with the US now,
    move out, declare victory. Same regime or worse is in power, but superficially fine with the US. Develop a prosperous
    relationship with assholes until it blows up again in Y months/years.
@@ -53,11 +54,22 @@ _Indicators_
 
 #### Vibes
 
-##### Februrary 28, 2026
+##### February 28, 2026
 
 1. Maybe
 2. Maybe
 3. Nope
 4. Nope, nope
-4. Nope, nope
-4. Nope, nope ('cause HEU makes a pretty shitty dirty bomb)
+5. Nope, nope
+6. Nope, nope ('cause HEU makes a pretty shitty dirty bomb)
+
+### Can Iran sprint to a bomb during conflict?
+
+#### Vibes
+
+##### March 11, 2026
+
+Unlikely. Surveillance too tight. Hits would be inevitable.
+Process requires large amounts of acids and logistics are observable from space.
+It would require a side unknown to adversary intelligence agencies.
+Which is unlikely with the penetration already seen.
