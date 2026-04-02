@@ -73,3 +73,29 @@ Unlikely. Surveillance too tight. Hits would be inevitable.
 Process requires large amounts of acids and logistics are observable from space.
 It would require a side unknown to adversary intelligence agencies.
 Which is unlikely with the penetration already seen.
+
+
+## Predictions
+
+### Will Trump order an operation to seize the Iranian HEU?
+
+Something this: https://bsky.app/profile/shipwreck75.bsky.social/post/3mihffu26v22c ([archived](https://web.archive.org/web/20260402085612/https://bsky.app/profile/shipwreck75.bsky.social/post/3mihffu26v22c))
+
+> The U.S. military briefed him on a complex operation involving airlifting excavation equipment,
+> building a runway inside Iran for cargo planes to extract the material, and potentially deploying hundreds of troops.-WaPo
+
+#### Vibes
+
+##### April 1, 2026
+
+- Yes.
+- Yes.
+- Not if they told him it will take longer than 4 weeks.
+- Yes, he is that stupid.
+
+##### April 2, 2026
+
+- Dien Bien Phu
+- Why are we told at all?
+- Would be Eagle Claw meets Market Gardens meets Dien Bien Phu
+- Hearing from it could be a distraction from something (little less) insane, like taking island(s) in the Strait of Hormuz.
